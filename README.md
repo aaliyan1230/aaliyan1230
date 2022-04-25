@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Aaliyan!</h3>
 
 <a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
-  <img align="left" alt="Aaliyan's LinkdeIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aaliyan's LinkdeIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aaliyan03/">
   <img align="left" alt="Aaliyan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
