@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h3 title="hehehe"> Hey 👋, I'm Aaliyan!</h3>
 
 <a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
-  <img align="left" alt="Aaliyan's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aaliyan's LinkdeIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aaliyan03/">
   <img align="left" alt="Aaliyan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.facebook.com/Muhammad-Aaliyan">
   <img align="left" alt="Aaliyan's facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
+
 <br>
 <br />
 
@@ -36,7 +37,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 **About Me!**
 
 - 🔭 I’m currently working on Web technologies and frameworks.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning Blockchain and Machine Learning.
 - 🤔 My interests are Full stack software development, Machine Learning, Cyber Security.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering from NEDUET.
 - 👯 I’m looking to collaborate on Machine Learning.
@@ -51,6 +52,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
