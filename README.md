@@ -16,20 +16,21 @@ Here are some ideas to get you started:
 -->
 <h3 title="hehehe"> Hey 👋, I'm Aaliyan!</h3>
 
+<a href="mailto:aaliyan1230@gmail.com">
+  <img align="left" alt="Aaliyan's facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
-  <img align="left" alt="Aaliyan's LinkdeIn" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aaliyan's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/aaliyan03/">
   <img align="left" alt="Aaliyan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/Muhammad-Aaliyan">
-  <img align="left" alt="Aaliyan's facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+
 
 <br>
 <br />
 
-Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to web development, Machine Learning, Blockchain and Cloud computing.
+Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to web development, Machine Learning, and Cloud computing.
 
 
   
