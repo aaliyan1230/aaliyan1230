@@ -61,7 +61,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 
 <img src="https://github-readme-stats.vercel.app/api?username=aaliyan1230&show_icons=true&hide_border=false&count_private=true&theme=github_dark&count_private=true" alt="Aaliyan's GitHub Stats">
 <img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyan1230&theme=github-dark-blue&count_private=true" alt="Aaliyan's streak")
+<img src="https://github-readme-streak-stats.herokuapp.com?user=aaliyan1230&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" alt="Aaliyan's streak")
 
 
 ⭐️ From [Muhammad_Aaliyan](https://github.com/aaliyan1230)
