@@ -59,9 +59,9 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-<img src="https://github-readme-stats.vercel.app/api?username=aaliyan1230&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Aaliyan's GitHub Stats">
-<img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=shades-of-purple&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyan1230&theme=shades-of-purple" alt="Aaliyan's streak")
+<img src="https://github-readme-stats.vercel.app/api?username=aaliyan1230&show_icons=true&hide_border=false&count_private=true&theme=github_dark&count_private=true" alt="Aaliyan's GitHub Stats">
+<img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaliyan1230&theme=github-dark-blue&count_private=true" alt="Aaliyan's streak")
 
 
 ⭐️ From [Muhammad_Aaliyan](https://github.com/aaliyan1230)
