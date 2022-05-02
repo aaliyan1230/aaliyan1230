@@ -41,7 +41,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 - 🌱 I’m currently learning MERN/MEVN stack.
 - 🤔 My interests are Full stack software development, Machine Learning, Cyber Security.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering from NEDUET.
-- 👯 I’m looking to collaborate on Machine Learning.
+- 👨‍💻 I’m looking to collaborate on Machine Learning.
 - 💬 Ask me about competitive programming, I love to answer!.
 
 **Languages and Tools:**  
