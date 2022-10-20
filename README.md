@@ -13,7 +13,7 @@
 <br>
 <br />
 
-Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to Web Development, Machine Learning, and Cloud Computing.
+Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to Web Development, Blockchain, and Cloud Computing.
 
 
   
