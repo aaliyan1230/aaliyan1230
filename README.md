@@ -29,18 +29,33 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=javascript"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=typescript"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=python"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=cpp"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="30" src="http://mongodb-js.github.io/leaf/mongodb-leaf_16x16@2x.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=react"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=redux"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=mui"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=tailwind"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=nextjs"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=django"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=nodejs"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=nest"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=postgresql"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=mysql"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=mongodb"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=git"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=docker"></code>
+
+**Currently Exploring:**  
+
+<code><img height="30" src="https://skills.thijs.gg/icons?i=linux"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=kubernetes"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=golang"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=java"></code>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=aaliyan1230&show_icons=true&hide_border=false&count_private=true&theme=github_dark&count_private=true" alt="Aaliyan's GitHub Stats">
 <img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
