@@ -1,12 +1,12 @@
 <h3 title="hehehe"> Hey 👋, I'm Aaliyan!</h3>
 <a href="mailto:aaliyan1230@gmail.com">
-  <img align="left" alt="Aaliyan's facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Aaliyan's email" width="24px" src="https://cdn.simpleicons.org/gmail/C2C2C4" />
 </a>
 <a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
-  <img align="left" alt="Aaliyan's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Aaliyan's LinkdeIn" width="24px" src="https://cdn.simpleicons.org/linkedin/C2C2C4" />
 </a>
 <a href="https://www.instagram.com/aaliyan03/">
-  <img align="left" alt="Aaliyan's Instagram" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Aaliyan's Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/C2C2C4" />
 </a>
 
 
