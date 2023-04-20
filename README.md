@@ -44,7 +44,6 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 <code><img height="30" src="https://skills.thijs.gg/icons?i=nodejs"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=nest"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=postgresql"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=mysql"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=mongodb"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=git"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=docker"></code>
