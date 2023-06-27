@@ -39,6 +39,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineering student** 👨‍�
 <code><img height="30" src="https://skills.thijs.gg/icons?i=mui"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=tailwind"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=nextjs"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=flutter"></code>
 
 <code><img height="30" src="https://skills.thijs.gg/icons?i=django"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=nodejs"></code>
