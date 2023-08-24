@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
   <img align="left" alt="Aaliyan's LinkdeIn" width="24px" src="https://cdn.simpleicons.org/linkedin/C2C2C4" />
 </a>
+<a href="https://www.twitter.com/aaliyan1230/">
+  <img align="left" alt="Aaliyan's Twitter" width="24px" src="https://cdn.simpleicons.org/x/C2C2C4" />
+</a>
 <a href="https://www.instagram.com/aaliyan03/">
   <img align="left" alt="Aaliyan's Instagram" width="24px" src="https://cdn.simpleicons.org/instagram/C2C2C4" />
 </a>
