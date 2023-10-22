@@ -27,7 +27,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Kar
 - 🌱 I’m currently learning Java and Distributed Systems.
 - 🤔 My interests are Full stack software development, Cloud Computing, Cyber Security.
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering from NEDUET.
-- 👨‍💻 I’m looking to collaborate on Machine Learning.
+- 👨‍💻 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about competitive programming, I love to answer!.
 
 **Languages and Tools:**  
