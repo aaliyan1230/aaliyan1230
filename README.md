@@ -16,7 +16,7 @@
 <br>
 <br />
 
-Hi there, I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to Web Development, Blockchain, and Cloud Computing.
+Hi there, I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Karachi, Pakistan, exploring multiple computing technologies particularly related to Web Development, Gen AI, and Cloud Computing.
 
 
   
