@@ -57,7 +57,7 @@ Hi there, I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Kar
 <code><img height="30" src="https://skills.thijs.gg/icons?i=linux"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=kubernetes"></code>
 <code><img height="30" src="https://skills.thijs.gg/icons?i=golang"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=java"></code>
+<code><img height="30" src="https://skills.thijs.gg/icons?i=rust"></code>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaliyan1230&show_icons=true&theme=transparent&bg_color=00000000&text_color=bfced6&include_all_commits=true&count_private=true"/>
 <img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
