@@ -32,32 +32,15 @@ I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Karachi, Paki
 
 **Languages and Tools:**  
 
-<code><img height="30" src="https://skills.thijs.gg/icons?i=javascript"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=typescript"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=python"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=cpp"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=python,ts,js,cpp"></code>
 
-<code><img height="30" src="https://skills.thijs.gg/icons?i=react"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=redux"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=mui"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=tailwind"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=nextjs"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=flutter"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=react,redux,mui,tailwind,next,flutter"></code>
 
-<code><img height="30" src="https://skills.thijs.gg/icons?i=django"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=nodejs"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=nest"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=postgresql"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=mongodb"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=git"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=docker"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=django,nodejs,nestjs,postgres,mongodb,git,docker,linux"></code>
 
 **Currently Exploring:**  
 
-<code><img height="30" src="https://skills.thijs.gg/icons?i=linux"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=kubernetes"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=golang"></code>
-<code><img height="30" src="https://skills.thijs.gg/icons?i=rust"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=kubernetes,golang,rust"></code>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaliyan1230&show_icons=true&theme=transparent&bg_color=00000000&text_color=bfced6&include_all_commits=true&count_private=true"/>
 <img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
