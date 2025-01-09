@@ -2,9 +2,9 @@
 <a href="mailto:aaliyan1230@gmail.com">
   <img align="left" alt="Aaliyan's email" width="24px" src="https://cdn.simpleicons.org/gmail/C2C2C4" />
 </a>
-<a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
+<!-- <a href="https://www.linkedin.com/in/muhammad-aaliyan-8a031b209/">
   <img align="left" alt="Aaliyan's LinkdeIn" width="24px" src="https://cdn.simpleicons.org/linkedin/C2C2C4" />
-</a>
+</a> -->
 <a href="https://www.twitter.com/aaliyan1230/">
   <img align="left" alt="Aaliyan's Twitter" width="24px" src="https://cdn.simpleicons.org/x/C2C2C4" />
 </a>
