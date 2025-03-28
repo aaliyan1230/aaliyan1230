@@ -23,7 +23,7 @@ I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Karachi, Paki
 
 **About Me!**
 
-- 🔭 I’m currently working on Web technologies and frameworks.
+- 🔭 I’m currently working on Web technologies and Agentic systems.
 - 🌱 I’m currently learning Golang and Distributed Systems.
 - 🤔 My interests are Full stack software development, Cloud Computing, Cyber Security.
 - 💼 I’ve completed Bachelor's in Software Engineering from NEDUET and now working as a Software Engineer.
