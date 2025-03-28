@@ -40,7 +40,7 @@ I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Karachi, Paki
 
 **Currently Exploring:**  
 
-<code><img height="30" src="https://skillicons.dev/icons?i=kubernetes,golang,rust"></code>
+<code><img height="30" src="https://skillicons.dev/icons?i=kubernetes,golang"></code>
 
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaliyan1230&show_icons=true&theme=transparent&bg_color=00000000&text_color=bfced6&include_all_commits=true&count_private=true"/>
 <img align="center" alt="Aaliyan's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaliyan1230&layout=compact&langs_count=9&theme=github_dark&count_private=true&exclude_repo=Optifine-Mod-Coder-Pack-1.16.1,Projects"/>
