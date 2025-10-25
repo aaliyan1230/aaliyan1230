@@ -25,7 +25,7 @@ I'm **Muhammad Aaliyan**, a **Software Engineer** 👨‍💻 from Karachi, Paki
 
 - 🔭 I’m currently working on Agentic systems and web technologies.
 - 🌱 I’m currently exploring Golang and Distributed Systems.
-- 🤔 My interests are Generative AI, System Design, and Distributed Systems.
+- 🤔 My interests are Applied AI and System Design.
 - 💼 I’ve completed Bachelor's in Software Engineering from NEDUET and now working as a Software Engineer.
 - 👨‍💻 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about anything computers, I love to answer!.
